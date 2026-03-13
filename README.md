@@ -9,7 +9,7 @@ Repo ini dibuat untuk memenuhi **Penugasan Praktikum 1** tentang Git dan Version
 | No | Nama | NIM |
 |----|------|-----|
 | 1 | Stefani Ayudya Prasetyo | L0224011 |
-| 2 | Jocelyn Louissa | L0224034 |
+| 2 | Jocelyn Louisa | L0224034 |
 | 3 | Talitha Sukma Mahardika | L0224037 |
 | 4 | Adrian Farrel Aziz Yatyoga | L0224040 |
 
