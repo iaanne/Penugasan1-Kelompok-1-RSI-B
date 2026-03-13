@@ -23,7 +23,7 @@ Repo ini dibuat untuk memenuhi **Penugasan Praktikum 1** tentang Git dan Version
 ### 1. Clone Repository *(sekali saja di awal)*
 ```bash
 git clone https://github.com/username/Penugasan1-Kelompok-1-RSI-B.git
-cd Penugasan1-Kelompok-1_RSI-B
+cd Penugasan1-Kelompok-1-RSI-B
 ```
 
 ### 2. Buat Branch Pribadi
